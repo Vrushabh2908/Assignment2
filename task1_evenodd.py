@@ -1,8 +1,8 @@
-# Task 1: Check if a Number is Even or Odd
+#Check if a number is even or odd
 
 num = int(input("Enter an integer number: "))
 
 if num % 2 == 0:
-    print(f"{num} is an Even number.")
+    print("{num} is an even number.")
 else:
-    print(f"{num} is an Odd number.")
+    print("{num} is an odd number.")
